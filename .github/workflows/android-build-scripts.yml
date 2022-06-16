@@ -3,8 +3,7 @@ name: android build scripts
 on:
   push:
     branches:
-      - development
-      - main
+      - android
     paths:
       - '.github/workflows/android-build-scripts.yml'
       - 'android/**'
