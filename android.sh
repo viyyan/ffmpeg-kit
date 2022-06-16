@@ -63,7 +63,7 @@ while [ ! $# -eq 0 ]; do
     skip_library "${SKIP_LIBRARY}"
     ;;
   --no-archive)
-    NO_ARCHIVE="1"
+    NO_ARCHIVE="0"
     ;;
   --no-output-redirection)
     no_output_redirection
