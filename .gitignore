@@ -3,4 +3,6 @@
 /prebuilt/
 .DS_Store
 .idea
+.ndk_
 .ndk
+*.zip
